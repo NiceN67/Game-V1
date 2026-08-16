@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ไทยเป็นอังกฤษ - Vocabulary Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell game-shell">
+    <nav class="top-nav" aria-label="เมนู">
+      <a class="brand" href="index.html">VOCAB</a>
+      <a class="nav-pill" href="index.html">กลับหน้าเลือกโหมด</a>
+    </nav>
+
+    <header class="game-head">
+      <div class="game-title">
+        <p class="eyebrow">Mode 02</p>
+        <h1>ไทยเป็นอังกฤษ</h1>
+        <p class="lead">ดูคำแปลไทย แล้วพิมพ์คำศัพท์ภาษาอังกฤษ</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><strong id="score">0</strong><span>คะแนน</span></div>
+        <div class="stat"><strong id="streak">0</strong><span>ต่อเนื่อง</span></div>
+        <div class="stat"><strong id="total">0</strong><span>เล่นแล้ว</span></div>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <label class="field">ระดับ
+        <select id="levelSelect">
+          <option value="all">ทั้งหมด</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+        </select>
+      </label>
+      <button id="nextBtn" class="btn" type="button">คำใหม่</button>
+      <button id="hintBtn" class="btn secondary" type="button">Hint</button>
+    </section>
+
+    <section class="play-panel">
+      <div class="prompt-meta">
+        <span id="levelTag" class="tag">level</span>
+        <span id="posTag" class="tag">part of speech</span>
+        <span id="countTag" class="tag">words</span>
+      </div>
+      <div id="promptMeaning" class="prompt-meaning">กำลังแปล...</div>
+      <form id="answerForm" class="answer-form">
+        <input id="answerInput" autocomplete="off" spellcheck="false" placeholder="พิมพ์คำศัพท์ภาษาอังกฤษ">
+        <button class="btn" type="submit">ตอบ</button>
+      </form>
+      <div id="feedback" class="feedback">กำลังโหลดคำแรก...</div>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="game-core.js"></script>
+  <script src="mode-thai-to-eng.js"></script>
+</body>
+</html>
+

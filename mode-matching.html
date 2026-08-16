@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>จับคู่คำศัพท์ - Vocabulary Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell game-shell">
+    <nav class="top-nav" aria-label="เมนู">
+      <a class="brand" href="index.html">VOCAB</a>
+      <a class="nav-pill" href="index.html">กลับหน้าเลือกโหมด</a>
+    </nav>
+
+    <header class="game-head">
+      <div class="game-title">
+        <p class="eyebrow">Mode 04</p>
+        <h1>จับคู่คำศัพท์</h1>
+        <p class="lead">จับคู่คำอังกฤษกับความหมายภาษาไทย</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><strong id="score">0</strong><span>คะแนน</span></div>
+        <div class="stat"><strong id="streak">0</strong><span>ต่อเนื่อง</span></div>
+        <div class="stat"><strong id="total">0</strong><span>เล่นแล้ว</span></div>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <label class="field">ระดับ
+        <select id="levelSelect">
+          <option value="all">ทั้งหมด</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+        </select>
+      </label>
+      <label class="field">จำนวนคู่
+        <select id="pairSelect">
+          <option value="4">4 คู่</option>
+          <option value="6" selected>6 คู่</option>
+          <option value="8">8 คู่</option>
+        </select>
+      </label>
+      <button id="nextBtn" class="btn" type="button">รอบใหม่</button>
+    </section>
+
+    <section class="play-panel matching-panel">
+      <div class="prompt-meta">
+        <span id="levelTag" class="tag">matching</span>
+        <span id="posTag" class="tag">thai / english</span>
+        <span id="countTag" class="tag">words</span>
+      </div>
+      <div class="match-columns">
+        <div>
+          <div class="match-title">English</div>
+          <div id="englishList" class="match-list"></div>
+        </div>
+        <div>
+          <div class="match-title">Thai</div>
+          <div id="thaiList" class="match-list"></div>
+        </div>
+      </div>
+      <div id="feedback" class="feedback">กำลังโหลดคำศัพท์...</div>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="game-core.js"></script>
+  <script src="mode-matching.js"></script>
+</body>
+</html>
+

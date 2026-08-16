@@ -1,0 +1,990 @@
+สรุป CONJUNCTIONS / CONNECTORS ฉบับละเอียด
+
+คำเชื่อม (Conjunctions / Connectors) คือคำหรือวลีที่ใช้ เชื่อมคำ วลี ประโยค หรือแนวความคิด ให้สัมพันธ์กัน เช่น เพิ่มข้อมูล บอกเหตุผล แสดงผลลัพธ์ ขัดแย้ง เงื่อนไข หรือยกตัวอย่าง
+
+สิ่งสำคัญที่สุดเวลาเลือกคำเชื่อม คือดูว่า ข้างหลังคำเชื่อมเป็น “ประโยค” หรือ “คำนาม”
+
+ประโยค (Clause) = มี Subject + Verb เช่น he is tired
+คำนาม/วลี (Noun phrase) = เช่น the rain, his illness
+V-ing สามารถทำหน้าที่คล้ายคำนามได้ เช่น working hard
+1. เสริมใจความ / เพิ่มข้อมูล
+1.1 นอกจากนี้ + ประโยค
+In addition
+
+= นอกจากนี้
+
+ใช้เพิ่มข้อมูลจากประโยคก่อนหน้า
+
+โครงสร้าง
+
+ประโยค. In addition, + ประโยค
+
+ตัวอย่าง:
+
+She is intelligent. In addition, she works very hard.
+เธอฉลาด นอกจากนี้เธอยังขยันมากด้วย
+
+Furthermore
+
+= นอกจากนี้ / ยิ่งไปกว่านั้น
+
+ค่อนข้างเป็นทางการ เหมาะกับงานเขียน
+
+The hotel is cheap. Furthermore, it is close to the airport.
+โรงแรมราคาถูก ยิ่งไปกว่านั้นยังอยู่ใกล้สนามบิน
+
+Moreover
+
+= ยิ่งไปกว่านั้น / นอกจากนี้
+
+ความหมายใกล้กับ Furthermore
+
+The course is interesting. Moreover, it is useful.
+หลักสูตรน่าสนใจ และยิ่งไปกว่านั้นยังมีประโยชน์
+
+จำง่าย
+
+In addition / Furthermore / Moreover + ประโยค
+
+มักมี comma (,) หลังคำเชื่อม
+
+2. นอกจาก + คำนาม
+In addition to
+
+= นอกจาก / นอกเหนือจาก
+
+โครงสร้าง
+
+In addition to + noun / V-ing
+
+ตัวอย่าง:
+
+In addition to English, she speaks Chinese.
+นอกจากภาษาอังกฤษแล้ว เธอยังพูดภาษาจีนได้
+
+In addition to studying, he works part-time.
+นอกจากเรียนแล้ว เขายังทำงานพิเศษด้วย
+
+Apart from
+
+= นอกจาก / นอกเหนือจาก / ยกเว้น
+
+Apart from English, he can speak Japanese.
+นอกจากภาษาอังกฤษแล้ว เขายังพูดภาษาญี่ปุ่นได้
+
+คำนี้บางบริบทอาจแปลว่า “ยกเว้น”
+
+Apart from John, everyone came.
+ทุกคนมา ยกเว้นจอห์น
+
+Aside from
+
+= นอกจาก / นอกเหนือจาก
+
+Aside from mathematics, she enjoys science.
+นอกจากคณิตศาสตร์แล้ว เธอยังชอบวิทยาศาสตร์
+
+Besides
+
+= นอกจาก / นอกจากนี้
+
+เมื่อเป็น preposition:
+
+Besides + noun / V-ing
+
+Besides English, I study Chinese.
+นอกจากภาษาอังกฤษ ฉันยังเรียนภาษาจีนด้วย
+
+Besides studying, he also works.
+นอกจากเรียนแล้ว เขายังทำงานด้วย
+
+จุดที่ต้องระวัง
+
+Besides ≠ Beside
+
+besides = นอกจาก / นอกจากนี้
+beside = ข้าง ๆ
+
+เช่น
+
+She sat beside me.
+เธอนั่งข้างฉัน
+
+3. ดังนั้น / เพราะฉะนั้น / ผลลัพธ์
+
+เป็นคำที่ใช้เชื่อม เหตุ → ผล
+
+So
+
+= ดังนั้น / เพราะฉะนั้น
+
+ใช้บ่อยในภาษาทั่วไป
+
+เหตุ + , so + ผล
+
+I was tired, so I went to bed.
+ฉันเหนื่อย ดังนั้นฉันจึงเข้านอน
+
+Therefore
+
+= ดังนั้น / เพราะฉะนั้น
+
+ค่อนข้างเป็นทางการ
+
+He studied hard. Therefore, he passed the exam.
+เขาตั้งใจเรียน ดังนั้นเขาจึงสอบผ่าน
+
+As a result
+
+= ผลก็คือ / ด้วยเหตุนี้
+
+It rained heavily. As a result, the match was cancelled.
+ฝนตกหนัก ผลก็คือการแข่งขันถูกยกเลิก
+
+Thus
+
+= ดังนั้น / ด้วยเหตุนี้
+
+เป็นทางการ
+
+He did not prepare. Thus, he failed the test.
+เขาไม่ได้เตรียมตัว ดังนั้นเขาจึงสอบตก
+
+Hence
+
+= ดังนั้น / ด้วยเหตุนี้
+
+ค่อนข้างเป็นทางการมาก
+
+The road was flooded; hence, we could not continue.
+ถนนถูกน้ำท่วม ดังนั้นเราจึงเดินทางต่อไม่ได้
+
+Consequently
+
+= ผลที่ตามมาคือ / ดังนั้น
+
+เน้น “ผลที่เกิดตามมา”
+
+He broke the rules. Consequently, he was punished.
+เขาฝ่าฝืนกฎ ผลที่ตามมาคือเขาถูกลงโทษ
+
+For this reason
+
+= ด้วยเหตุนี้
+
+She was ill. For this reason, she stayed home.
+เธอป่วย ด้วยเหตุนี้เธอจึงอยู่บ้าน
+
+Accordingly
+
+= ดังนั้น / ด้วยเหตุนี้
+
+The weather was bad. Accordingly, the trip was postponed.
+อากาศไม่ดี ดังนั้นการเดินทางจึงถูกเลื่อน
+
+สรุปกลุ่มนี้
+
+เหตุ → So / Therefore / Thus / Hence / Consequently / As a result / For this reason / Accordingly → ผล
+
+4. คำเชื่อมสำหรับ “สรุป”
+In conclusion
+
+= โดยสรุป / สรุปแล้ว
+
+ใช้ช่วงท้ายบทความหรือการพูด
+
+In conclusion, exercise is essential for good health.
+โดยสรุป การออกกำลังกายมีความสำคัญต่อสุขภาพที่ดี
+
+In summary
+
+= โดยสรุป
+
+In summary, the project was successful.
+โดยสรุป โครงการประสบความสำเร็จ
+
+To sum up
+
+= สรุปก็คือ
+
+To sum up, we need to work together.
+สรุปก็คือ เราจำเป็นต้องทำงานร่วมกัน
+
+จำง่าย
+
+In conclusion = In summary = To sum up
+
+ทั้งหมดใช้ขึ้นต้นข้อสรุปได้
+
+5. ในทำนองเดียวกัน / คล้ายกัน
+Similarly
+
+= ในทำนองเดียวกัน
+
+Tom enjoys football. Similarly, his brother loves sports.
+ทอมชอบฟุตบอล ในทำนองเดียวกันน้องชายของเขาก็ชอบกีฬา
+
+Likewise
+
+= เช่นเดียวกัน / ในทำนองเดียวกัน
+
+She works hard. Likewise, her sister is very diligent.
+เธอขยัน เช่นเดียวกันกับน้องสาวของเธอ
+
+6. เพื่อที่จะ...
+In order to
+
+= เพื่อที่จะ
+
+ตามด้วย Verb ช่อง 1
+
+in order to + V1
+
+I study hard in order to pass the exam.
+ฉันตั้งใจเรียนเพื่อที่จะสอบผ่าน
+
+So as to
+
+= เพื่อที่จะ
+
+so as to + V1
+
+He left early so as to avoid traffic.
+เขาออกเดินทางแต่เช้าเพื่อหลีกเลี่ยงรถติด
+
+จำ
+
+❌ in order to passing
+
+✅ in order to pass
+
+เพราะ to + V1
+
+7. เกี่ยวกับ
+Concerning
+
+= เกี่ยวกับ
+
+Concerning + noun
+
+I have a question concerning the project.
+ฉันมีคำถามเกี่ยวกับโครงการ
+
+Regarding
+
+= เกี่ยวกับ / ในเรื่องของ
+
+Regarding your application, we will contact you soon.
+เกี่ยวกับใบสมัครของคุณ เราจะติดต่อกลับเร็ว ๆ นี้
+
+พบได้บ่อยในภาษาเขียนและอีเมล
+
+8. มากเสียจน...
+
+มี 2 โครงสร้างสำคัญมาก
+
+So + adjective/adverb + that
+
+= ...มากจนกระทั่ง...
+
+so + adj. + that + ประโยค
+
+He was so tired that he fell asleep.
+เขาเหนื่อยมากจนหลับไป
+
+The test was so difficult that many students failed.
+ข้อสอบยากมากจนมีนักเรียนหลายคนสอบตก
+
+Such + noun + that
+
+= เป็น...ที่...มากจน...
+
+such + (a/an) + adjective + noun + that
+
+It was such a difficult test that many students failed.
+มันเป็นข้อสอบที่ยากมากจนมีนักเรียนหลายคนสอบตก
+
+เปรียบเทียบ
+
+so + adjective
+
+so beautiful that...
+
+such + noun
+
+such a beautiful girl that...
+
+จำสั้น ๆ:
+
+SO → เน้น adjective
+SUCH → เน้น noun
+
+9. ไม่ใช่แค่...แต่ยัง...ด้วย
+Not only...but also
+
+= ไม่เพียงแต่...แต่ยัง...อีกด้วย
+
+She is not only beautiful but also intelligent.
+เธอไม่เพียงแต่สวย แต่ยังฉลาดอีกด้วย
+
+ต้องพยายามให้สิ่งที่เชื่อมกันมีโครงสร้างชนิดเดียวกัน
+
+ตัวอย่าง:
+
+He likes not only swimming but also running.
+
+swimming ↔ running
+
+10. ขัดแย้ง — ถึงแม้ว่า + ประโยค
+Although
+Though
+Even though
+
+ทั้งสามคำแปลว่า
+
+ถึงแม้ว่า / แม้ว่า
+
+ตามด้วย ประโยค S + V
+
+Although + S + V, S + V
+
+Although it was raining, we went outside.
+แม้ว่าฝนกำลังตก แต่พวกเราก็ออกไปข้างนอก
+
+Though he was tired, he continued working.
+ถึงแม้เขาจะเหนื่อย เขาก็ทำงานต่อ
+
+Even though she was sick, she went to school.
+แม้ว่าเธอจะป่วย เธอก็ไปโรงเรียน
+
+ระดับน้ำหนัก
+
+Even though เน้นความขัดแย้งมากกว่า Although/Though
+
+เช่น
+
+Even though he is rich, he is unhappy.
+ทั้ง ๆ ที่เขารวย เขากลับไม่มีความสุข
+
+11. ถึงแม้ + คำนาม
+In spite of
+Despite
+
+= ถึงแม้ / แม้จะ
+
+ตามด้วย
+
+noun
+pronoun
+V-ing
+โครงสร้าง
+
+Despite + noun/V-ing
+
+In spite of + noun/V-ing
+
+ตัวอย่าง:
+
+Despite the rain, we went out.
+แม้ว่าฝนจะตก เราก็ออกไปข้างนอก
+
+In spite of being tired, he continued working.
+แม้จะเหนื่อย เขาก็ยังทำงานต่อ
+
+ข้อสอบชอบถาม
+
+Although + ประโยค
+
+Although it was raining, ...
+
+แต่
+
+Despite + คำนาม
+
+Despite the rain, ...
+
+ห้ามเขียน
+
+❌ Despite of the rain
+
+✅ Despite the rain
+
+✅ In spite of the rain
+
+12. อย่างไรก็ตาม / ถึงอย่างนั้น
+However
+
+= อย่างไรก็ตาม
+
+He is rich. However, he is unhappy.
+เขารวย อย่างไรก็ตามเขาไม่มีความสุข
+
+Yet
+
+= แต่ถึงกระนั้น / อย่างไรก็ตาม
+
+He is young, yet he is very responsible.
+เขาอายุน้อย แต่ถึงกระนั้นเขาก็มีความรับผิดชอบมาก
+
+Nevertheless
+
+= อย่างไรก็ตาม / ถึงกระนั้น
+
+The task was difficult. Nevertheless, she completed it.
+งานยาก อย่างไรก็ตามเธอก็ทำสำเร็จ
+
+Nonetheless
+
+= อย่างไรก็ตาม
+
+แทบเหมือน Nevertheless
+
+It was expensive. Nonetheless, I bought it.
+มันราคาแพง อย่างไรก็ตามฉันก็ซื้อ
+
+13. ในทางกลับกัน / เปรียบต่าง
+On the contrary
+
+= ตรงกันข้าม
+
+ใช้เมื่อสิ่งที่พูดก่อนหน้านั้น ไม่จริง และความจริงเป็นตรงกันข้าม
+
+He isn't lazy. On the contrary, he works very hard.
+เขาไม่ได้ขี้เกียจ ตรงกันข้าม เขาทำงานหนักมาก
+
+On the other hand
+
+= ในอีกด้านหนึ่ง / ในทางกลับกัน
+
+ใช้เปรียบเทียบ สองด้านของเรื่องเดียวกัน
+
+City life is convenient. On the other hand, it can be stressful.
+ชีวิตในเมืองสะดวก แต่อีกด้านหนึ่งอาจสร้างความเครียด
+
+In contrast
+
+= ในทางตรงกันข้าม / เมื่อเปรียบเทียบกัน
+
+Tom is outgoing. In contrast, his brother is shy.
+ทอมเป็นคนเข้าสังคมเก่ง ในทางตรงกันข้าม น้องชายของเขาขี้อาย
+
+14. ในความเป็นจริงแล้ว
+In fact
+
+= ในความเป็นจริง / จริง ๆ แล้ว
+
+ใช้เน้นหรือแก้ข้อมูลก่อนหน้า
+
+He looks young. In fact, he is 50 years old.
+เขาดูอายุน้อย แต่จริง ๆ แล้วเขาอายุ 50 ปี
+
+15. ในขณะที่ — แสดงความต่าง
+While
+
+= ในขณะที่ / ในทางตรงกันข้าม
+
+Tom likes coffee, while Jane prefers tea.
+ทอมชอบกาแฟ ในขณะที่เจนชอบชา
+
+Whereas
+
+= ในขณะที่ / แต่ในทางตรงกันข้าม
+
+เน้นเปรียบต่าง
+
+My brother is outgoing, whereas I am shy.
+พี่ชายของฉันชอบเข้าสังคม ในขณะที่ฉันขี้อาย
+
+Meanwhile
+
+= ในขณะเดียวกัน
+
+ใช้พูดถึงสิ่งที่เกิดในช่วงเวลาเดียวกัน
+
+I cooked dinner. Meanwhile, my sister cleaned the room.
+ฉันทำอาหารเย็น ในขณะเดียวกันน้องสาวทำความสะอาดห้อง
+
+ระวัง
+
+While มีได้ทั้ง
+
+“ในขณะที่” = เวลา
+“ในขณะที่/แต่” = เปรียบต่าง
+
+แต่ Meanwhile มักหมายถึง “ในขณะเดียวกัน”
+
+16. แทนที่จะ
+Rather than
+
+= แทนที่จะ
+
+I decided to walk rather than take a taxi.
+ฉันเลือกเดินแทนที่จะนั่งแท็กซี่
+
+Instead of
+
+= แทนที่จะ / แทนที่
+
+ตามด้วย noun หรือ V-ing
+
+I walked instead of taking a taxi.
+ฉันเดินแทนที่จะนั่งแท็กซี่
+
+จำ
+
+instead of + noun/V-ing
+
+instead of going
+
+ไม่ใช่
+
+❌ instead of go
+
+17. แม้ว่า / ต่อให้
+Even if
+
+= แม้ว่า / ต่อให้
+
+เป็น เงื่อนไขสมมติ
+
+Even if it rains, I will go.
+ต่อให้ฝนตก ฉันก็จะไป
+
+ต่างจาก Even though
+
+Even though = เรื่องนั้นเป็นจริง
+
+Even though it is raining, I will go.
+แม้ว่าตอนนี้ฝนกำลังตก ฉันก็จะไป
+
+Even if = สมมติว่าอาจเกิดหรือไม่เกิด
+
+Even if it rains, I will go.
+ต่อให้ฝนตก ฉันก็จะไป
+
+ข้อนี้ ออกสอบบ่อยมาก
+
+18. เงื่อนไข — เว้นแต่
+Unless
+
+= เว้นแต่ / ถ้าไม่
+
+เท่ากับโดยประมาณ
+
+if...not
+
+Unless you study, you will fail.
+
+=
+
+If you do not study, you will fail.
+
+แปลว่า
+
+ถ้าคุณไม่เรียน คุณจะสอบตก
+
+ระวัง
+
+Unless มีความหมาย “ถ้าไม่” อยู่แล้ว จึงไม่ควรใส่ not ซ้ำ
+
+❌ Unless you don't study...
+
+ในความหมายที่ตั้งใจว่า “ถ้าคุณไม่เรียน”
+
+ควรใช้
+
+✅ Unless you study...
+
+Except if
+
+= ยกเว้นถ้า / เว้นแต่
+
+I will go except if it rains heavily.
+ฉันจะไป เว้นแต่ฝนตกหนัก
+
+พบไม่บ่อยเท่า unless
+
+19. ตราบใดก็ตาม
+As long as
+So long as
+
+= ตราบใดที่ / ถ้าหากว่า
+
+You can stay here as long as you keep quiet.
+คุณสามารถอยู่ที่นี่ได้ตราบใดที่คุณไม่ส่งเสียงดัง
+
+หรือหมายความว่า
+
+คุณอยู่ที่นี่ได้ โดยมีเงื่อนไขว่าต้องเงียบ
+
+20. ไม่เช่นนั้น
+Otherwise
+
+= มิฉะนั้น / ไม่เช่นนั้น
+
+Hurry up. Otherwise, you will miss the bus.
+รีบหน่อย มิฉะนั้นคุณจะพลาดรถบัส
+
+Or else
+
+= ไม่อย่างนั้น / มิฉะนั้น
+
+Study hard, or else you may fail.
+ตั้งใจเรียน ไม่อย่างนั้นคุณอาจสอบตก
+
+21. เผื่อว่า / ในกรณีที่
+In case
+
+= เผื่อว่า / ในกรณีที่
+
+Take an umbrella in case it rains.
+เอาร่มไปด้วยเผื่อฝนตก
+
+In case ≠ If
+
+in case = ทำอะไรเตรียมไว้ก่อน เพราะสิ่งนั้นอาจเกิด
+
+Take some money in case you need it.
+เอาเงินไปเผื่อจำเป็นต้องใช้
+
+22. โดยมีเงื่อนไขว่า
+On condition that / On the condition that
+
+= โดยมีเงื่อนไขว่า
+
+You can borrow my car on condition that you drive carefully.
+คุณยืมรถของฉันได้โดยมีเงื่อนไขว่าต้องขับอย่างระมัดระวัง
+
+23. ถ้า / ตราบใดที่ — ทางการ
+Provided / Providing
+
+ปกติใช้เป็น
+
+Provided that
+Providing that
+
+= ถ้าหากว่า / โดยมีเงื่อนไขว่า
+
+You can go provided that you finish your homework.
+คุณสามารถไปได้ถ้าคุณทำการบ้านเสร็จ
+
+You can stay providing that you follow the rules.
+คุณสามารถอยู่ได้หากคุณปฏิบัติตามกฎ
+
+24. สมมติว่า
+Suppose
+Supposing
+
+= สมมติว่า / ถ้าสมมติว่า
+
+Suppose you won the lottery, what would you do?
+สมมติว่าคุณถูกลอตเตอรี่ คุณจะทำอะไร
+
+Supposing you lost your phone, what would you do?
+สมมติว่าคุณทำโทรศัพท์หาย คุณจะทำอย่างไร
+
+25. เหตุผล — เนื่องจาก + คำนาม
+
+ในภาพมี 4 ตัวสำคัญ
+
+Because of
+
+= เนื่องจาก / เพราะ
+
+because of + noun/V-ing
+
+The match was cancelled because of the rain.
+การแข่งขันถูกยกเลิกเพราะฝน
+
+Due to
+
+= เนื่องจาก
+
+The flight was delayed due to bad weather.
+เที่ยวบินล่าช้าเนื่องจากสภาพอากาศไม่ดี
+
+ค่อนข้างเป็นทางการ
+
+Owing to
+
+= เนื่องจาก
+
+Owing to heavy rain, the road was closed.
+เนื่องจากฝนตกหนัก ถนนจึงถูกปิด
+
+Thanks to
+
+= เนื่องจาก / เพราะความช่วยเหลือของ
+
+ส่วนใหญ่มักใช้กับ ผลดี
+
+Thanks to your help, I passed the exam.
+เพราะความช่วยเหลือของคุณ ฉันจึงสอบผ่าน
+
+แต่บางครั้งสามารถใช้ประชดได้
+
+⭐ จุดสำคัญมาก: Because กับ Because of
+
+Because + ประโยค S + V
+
+I stayed home because I was sick.
+
+แต่
+
+Because of + noun
+
+I stayed home because of my illness.
+
+หรือ
+
+Because of being sick, I stayed home.
+
+จำ:
+
+Because + ประโยค
+Because of + คำนาม
+
+26. ยกตัวอย่าง
+For example
+
+= ตัวอย่างเช่น
+
+Many animals can swim. For example, dogs can swim.
+สัตว์หลายชนิดว่ายน้ำได้ ตัวอย่างเช่น สุนัขว่ายน้ำได้
+
+For instance
+
+= ตัวอย่างเช่น
+
+แทบเหมือน For example
+
+Many countries are famous for food. For instance, Italy is famous for pizza.
+
+27. เช่น + รายการตัวอย่าง
+Such as
+
+= เช่น
+
+ตามด้วย คำนาม/รายการสิ่งของ
+
+I like fruits such as apples, bananas, and oranges.
+ฉันชอบผลไม้ เช่น แอปเปิล กล้วย และส้ม
+
+Including
+
+= รวมถึง / เช่น
+
+Many students, including Tom and Jane, joined the activity.
+นักเรียนหลายคน รวมถึงทอมและเจน เข้าร่วมกิจกรรม
+
+ต่างกันเล็กน้อย
+
+For example / For instance มักนำเข้าสู่ “ตัวอย่าง/ประโยค”
+
+such as / including มักตามด้วย คำนาม
+
+28. AS — คำเดียวแต่มีหลายความหมายมาก
+
+ส่วนนี้สำคัญมาก เพราะ as แปลได้หลายแบบขึ้นอยู่กับบริบท
+
+28.1 As = ตอนที่ / ในขณะที่
+
+เหมือน when / while
+
+As I was walking home, I saw Tom.
+ขณะที่ฉันกำลังเดินกลับบ้าน ฉันเห็นทอม
+
+As she was cooking, the phone rang.
+ขณะที่เธอกำลังทำอาหาร โทรศัพท์ก็ดังขึ้น
+
+29. As = เพราะว่า
+
+ใกล้เคียงกับ because / since
+
+As it was raining, we stayed home.
+เพราะว่าฝนตก เราจึงอยู่บ้าน
+
+As I was tired, I went to bed early.
+เพราะฉันเหนื่อย ฉันจึงเข้านอนเร็ว
+
+เปรียบเทียบ
+
+Because I was tired, I went to bed.
+
+Since I was tired, I went to bed.
+
+As I was tired, I went to bed.
+
+ทั้งสามหมายถึง
+
+เพราะฉันเหนื่อย ฉันจึงเข้านอน
+
+แต่ Because จะเน้นเหตุผลชัดที่สุด
+
+30. As = เหมือนกับ
+
+ในภาพเปรียบกับ like
+
+แต่ต้องระวังโครงสร้าง
+
+Like + noun/pronoun
+
+He runs like a professional athlete.
+เขาวิ่งเหมือนนักกีฬามืออาชีพ
+
+As + clause หรือใช้แสดงบทบาท
+
+Do as I told you.
+ทำตามที่ฉันบอก
+
+ดังนั้น as กับ like ไม่ได้แทนกันได้ทุกกรณี
+
+31. As = ในฐานะ / ตำแหน่ง
+
+สำคัญมาก
+
+He works as a teacher.
+เขาทำงานในฐานะครู
+
+หมายความว่า เขาเป็นครูจริง ๆ
+
+เปรียบเทียบกับ
+
+He talks like a teacher.
+เขาพูดเหมือนครู
+
+ไม่ได้บอกว่าเขาเป็นครูจริง
+
+จำ
+
+as = เป็น / ในฐานะ
+
+like = เหมือน
+
+ตัวอย่าง:
+
+I work as a doctor.
+ฉันทำงานเป็นหมอ
+
+He dresses like a doctor.
+เขาแต่งตัวเหมือนหมอ
+
+32. As though / As if
+
+= ราวกับว่า / ประหนึ่งว่า / เหมือนกับว่า
+
+As if
+
+He talks as if he knew everything.
+เขาพูดราวกับว่าเขารู้ทุกอย่าง
+
+As though
+
+She looks as though she is tired.
+เธอดูเหมือนว่าเธอเหนื่อย
+
+สองคำนี้มีความหมายแทบเหมือนกัน
+
+⭐ สรุป “ตามด้วยประโยค” กับ “ตามด้วยคำนาม”
+
+นี่เป็นส่วนที่ควรจำที่สุดสำหรับทำข้อสอบ
+
+ความหมาย	+ ประโยค S+V	+ คำนาม / V-ing
+เพราะ	because / as / since	because of / due to / owing to / thanks to
+แม้ว่า	although / though / even though	despite / in spite of
+นอกจาก	in addition + ประโยคใหม่	in addition to / besides / apart from / aside from
+เพื่อ	so that + S+V	in order to / so as to + V1
+⭐ คู่คำที่ต้องแยกให้ออก
+1. Although vs Despite
+
+Although + S + V
+
+Although he was tired, he worked.
+
+Despite + noun/V-ing
+
+Despite being tired, he worked.
+
+2. Because vs Because of
+
+Because + S + V
+
+Because it rained, we stayed home.
+
+Because of + noun
+
+Because of the rain, we stayed home.
+
+3. Even though vs Even if
+
+Even though = ถึงแม้ว่า “เหตุการณ์นั้นเป็นจริง”
+
+Even though he is poor, he is happy.
+
+Even if = ต่อให้ / สมมติว่า
+
+Even if he is poor, I will marry him.
+
+4. So...that vs Such...that
+
+so + adjective + that
+
+The book was so interesting that I read it twice.
+
+such + noun + that
+
+It was such an interesting book that I read it twice.
+
+5. Like vs As
+
+like = เหมือน
+
+He swims like a fish.
+
+as = ในฐานะ
+
+He works as a teacher.
+
+6. Besides vs Beside
+
+besides = นอกจาก
+
+Besides English, I study Chinese.
+
+beside = ข้าง ๆ
+
+Sit beside me.
+
+⭐ สรุปตามหน้าที่แบบจำก่อนสอบ
+หน้าที่	คำเชื่อม
+เพิ่มเติม	In addition, Furthermore, Moreover
+นอกจาก	In addition to, Apart from, Aside from, Besides
+ผลลัพธ์/ดังนั้น	So, Therefore, Thus, Hence, Consequently, As a result, For this reason, Accordingly
+สรุป	In conclusion, In summary, To sum up
+คล้ายกัน	Similarly, Likewise
+จุดประสงค์	In order to, So as to
+เกี่ยวกับ	Concerning, Regarding
+มากจน	So...that, Such...that
+ไม่เพียงแต่...แต่ยัง	Not only...but also
+แม้ว่า + ประโยค	Although, Though, Even though
+แม้ว่า + คำนาม	Despite, In spite of
+อย่างไรก็ตาม	However, Yet, Nevertheless, Nonetheless
+ตรงกันข้าม	On the contrary, On the other hand, In contrast
+ความจริงแล้ว	In fact
+ในขณะที่/เปรียบต่าง	While, Whereas, Meanwhile
+แทนที่จะ	Rather than, Instead of
+ต่อให้	Even if
+เว้นแต่	Unless, Except if
+ตราบใดที่	As long as, So long as
+มิฉะนั้น	Otherwise, Or else
+เผื่อว่า	In case
+โดยมีเงื่อนไขว่า	On condition that, Provided/Providing that
+สมมติว่า	Suppose, Supposing
+เนื่องจาก + คำนาม	Because of, Due to, Thanks to, Owing to
+ตัวอย่างเช่น	For example, For instance
+เช่น	Such as, Including
+As = เวลา	As, When, While
+As = เพราะว่า	As, Since
+As = เหมือน	As, Like
+As = ในฐานะ	As
+As = ราวกับว่า	As though, As if

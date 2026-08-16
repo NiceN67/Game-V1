@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vocabulary Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home-page">
+  <main class="shell hub-shell">
+    <nav class="top-nav home-nav" aria-label="เมนูหลัก">
+      <a class="brand" href="index.html">VOCAB</a>
+      <a class="nav-pill" href="report-bug.html">แจ้งบัค</a>
+    </nav>
+
+    <section class="home-stage">
+      <p class="eyebrow">Vocabulary Game</p>
+      <h1>Vocabulary<br>Game</h1>
+
+      <section class="home-category-grid" aria-label="โหมดเกม">
+        <article class="mode-group">
+          <div class="mode-group-head">
+            <span class="mode-index">01</span>
+            <h2>Vocab</h2>
+          </div>
+          <button class="mode-picker" type="button" aria-expanded="false" aria-controls="vocabModes">
+            เลือกโหมด
+          </button>
+          <div id="vocabModes" class="mode-link-list" aria-label="โหมด Vocabulary">
+            <a class="mode-card home-mode-button" href="mode-eng-to-thai.html">
+              <span class="mode-index">01</span>
+              <strong>อังกฤษเป็นไทย</strong>
+            </a>
+
+            <a class="mode-card home-mode-button" href="mode-thai-to-eng.html">
+              <span class="mode-index">02</span>
+              <strong>ไทยเป็นอังกฤษ</strong>
+            </a>
+
+            <a class="mode-card home-mode-button" href="mode-choice.html">
+              <span class="mode-index">03</span>
+              <strong>เลือกคำตอบ</strong>
+            </a>
+
+            <a class="mode-card home-mode-button" href="mode-matching.html">
+              <span class="mode-index">04</span>
+              <strong>จับคู่คำศัพท์</strong>
+            </a>
+          </div>
+        </article>
+
+        <article class="mode-group">
+          <div class="mode-group-head">
+            <span class="mode-index">02</span>
+            <h2>Conj</h2>
+          </div>
+          <button class="mode-picker" type="button" aria-expanded="false" aria-controls="conjModes">
+            เลือกโหมด
+          </button>
+          <div id="conjModes" class="mode-link-list" aria-label="โหมด Conjunction">
+            <a class="mode-card home-mode-button" href="mode-conjunction.html">
+              <span class="mode-index">01</span>
+              <strong>อังกฤษเป็นไทย</strong>
+            </a>
+
+            <a class="mode-card home-mode-button" href="mode-conj-thai-to-eng.html">
+              <span class="mode-index">02</span>
+              <strong>ไทยเป็นอังกฤษ</strong>
+            </a>
+
+            <a class="mode-card home-mode-button" href="mode-conj-choice.html">
+              <span class="mode-index">03</span>
+              <strong>เลือกคำตอบ</strong>
+            </a>
+          </div>
+        </article>
+      </section>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

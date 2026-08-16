@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conj ไทยเป็นอังกฤษ - Vocabulary Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell game-shell">
+    <nav class="top-nav" aria-label="เมนู">
+      <a class="brand" href="index.html">VOCAB</a>
+      <a class="nav-pill" href="index.html">กลับหน้าเลือกโหมด</a>
+    </nav>
+
+    <header class="game-head">
+      <div class="game-title">
+        <p class="eyebrow">Conj Mode 02</p>
+        <h1>ไทยเป็นอังกฤษ</h1>
+        <p class="lead">ดูความหมายภาษาไทย แล้วพิมพ์คำเชื่อมภาษาอังกฤษ</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><strong id="score">0</strong><span>คะแนน</span></div>
+        <div class="stat"><strong id="streak">0</strong><span>ต่อเนื่อง</span></div>
+        <div class="stat"><strong id="total">0</strong><span>เล่นแล้ว</span></div>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <button id="nextBtn" class="btn" type="button">คำใหม่</button>
+      <button id="hintBtn" class="btn secondary" type="button">Hint</button>
+    </section>
+
+    <section class="play-panel">
+      <div class="prompt-meta">
+        <span class="tag">connector</span>
+        <span class="tag">conjunction</span>
+        <span id="countTag" class="tag">items</span>
+      </div>
+      <div id="promptMeaning" class="prompt-meaning">loading</div>
+      <form id="answerForm" class="answer-form">
+        <input id="answerInput" autocomplete="off" placeholder="พิมพ์คำเชื่อมภาษาอังกฤษ">
+        <button class="btn" type="submit">ตอบ</button>
+      </form>
+      <div id="feedback" class="feedback">กำลังโหลดคำแรก...</div>
+    </section>
+  </main>
+
+  <script src="conj-data.js"></script>
+  <script src="mode-conj-thai-to-eng.js"></script>
+</body>
+</html>
+

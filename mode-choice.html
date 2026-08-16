@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>เลือกคำตอบ - Vocabulary Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell game-shell">
+    <nav class="top-nav" aria-label="เมนู">
+      <a class="brand" href="index.html">VOCAB</a>
+      <a class="nav-pill" href="index.html">กลับหน้าเลือกโหมด</a>
+    </nav>
+
+    <header class="game-head">
+      <div class="game-title">
+        <p class="eyebrow">Mode 03</p>
+        <h1>เลือกคำตอบ</h1>
+        <p class="lead">ดูคำอังกฤษ แล้วเลือกความหมายไทยที่ถูกจาก 5 ตัวเลือก</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><strong id="score">0</strong><span>คะแนน</span></div>
+        <div class="stat"><strong id="streak">0</strong><span>ต่อเนื่อง</span></div>
+        <div class="stat"><strong id="total">0</strong><span>เล่นแล้ว</span></div>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <label class="field">ระดับ
+        <select id="levelSelect">
+          <option value="all">ทั้งหมด</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+        </select>
+      </label>
+      <button id="nextBtn" class="btn" type="button">คำใหม่</button>
+      <button id="exampleBtn" class="btn secondary" type="button">ตัวอย่างประโยค</button>
+      <button id="settingsToggle" class="btn secondary" type="button" aria-expanded="false" aria-controls="choiceSettings">ตั้งค่า</button>
+    </section>
+
+    <section id="choiceSettings" class="settings-panel" aria-hidden="true">
+      <div>
+        <span class="settings-label">หลังตอบถูก</span>
+        <div class="segmented-control" role="group" aria-label="ตั้งค่าการข้ามคำ">
+          <button class="segment-option is-active" type="button" data-advance-mode="manual">กดข้ามเอง</button>
+          <button class="segment-option" type="button" data-advance-mode="auto">รอ 3 วิ</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="play-panel">
+      <div class="prompt-meta">
+        <span id="levelTag" class="tag">level</span>
+        <span id="posTag" class="tag">part of speech</span>
+        <span id="countTag" class="tag">words</span>
+      </div>
+      <div id="promptWord" class="prompt-word">loading</div>
+      <div id="choiceGrid" class="choice-grid"></div>
+      <div id="feedback" class="feedback">กำลังโหลดตัวเลือก...</div>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="game-core.js"></script>
+  <script src="mode-choice.js"></script>
+</body>
+</html>
+
